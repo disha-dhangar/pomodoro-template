@@ -1,25 +1,28 @@
 /* Step 1: Style the body */
 body {
     /* Your code here */
-    font-family: sans-serif;
+    font-family: serif;
     text-align: center;
     padding: 20px;
     width: 200px;
+    color: #92137b;
+    background-color: #ede2ea;
   }
   
-  /* Step 2: Style the container */
+  /*Step 2: Style the container 
   .container {
-    /* Your code here */
-    padding: 20px;
+    padding: 10px;
     text-align: center;
-  }
+  }*/
   
   /* Step 3: Style the timer display */
   #timer {
     /* Your code here */
-    font-size: 24px;
+    font-size: 20px;
+    font-family: serif;
     font-weight: bold;
-    margin: 5px;
+    margin: 20px;
+    color: #8b46b9;
   }
   
   /* Step 4: Style the buttons */
@@ -27,24 +30,24 @@ body {
     /* Your code here */
     padding: 20px;
     margin: 5px;
-    font-family: sans-serif;
-    font-size: 14px;
+    font-family: serif;
+    font-size: 16px;
     cursor: pointer;
-    background-color: #a8e1fb;
-    color: white;
+    background-color: #bcaada;
+    color: #33224f;
     border-radius: 5px;
   }
   
   /* Step 5: Add hover effects to the buttons */
   button:hover {
     /* Your code here */
-    background-color: #55a2c6;
-    transform: scale(1.5);
+    background-color: #9e84ca;
+    transform: scale(1.1);
   }
     
     /* Step 5: Add hover effects to the buttons */
     button:hover {
       /* Your code here */
-      background-color: #55a2c6;
-      transform: scale(1.5);
+      background-color: #9e84ca;
+      transform: scale(1.1);
     }
